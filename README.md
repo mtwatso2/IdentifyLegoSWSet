@@ -1,2 +1,5 @@
-# IdentifyLegoSWSet
-Identify which Lego Star Wars set you random pieces belong to 
+# Identify Lego Star Wars Set
+Identify which Lego Star Wars set your random pieces belong to 
+
+# Files
+
